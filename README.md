@@ -1,5 +1,6 @@
 ### sobre min 
 
+ola meu nome e allanleandrodasilvarodrigues@escola.br.gov.pr
 
 <!--
 **allanleandro/allanleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
