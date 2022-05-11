@@ -1,6 +1,8 @@
-### sobre min 
+### sobe 
 
-ola meu nome e allanleandrodasilvarodrigues@escola.br.gov.pr
+
+
+rodrigues@escola.b
 
 <!--
 **allanleandro/allanleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: ...pot que eu sou curioso 
 -->
 1 comentário no compromisso6334120
-@allanleandro
+@al   
+- 💬 Ask me about ...esse alura gostei de fazer esses jogos Atualmente estou aprendendo...eu estou atualizando um programar recentemente ce alura gostei de fazer esses jogos
 
-- 🌱 I’m currently learning ...eu estou aprendendo a programar recentemente as lingugens 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...estou atualizando novas limguagens   
-- 💬 Ask me about ...esse alura gostei de fazer esses jogos 
 - 😄 Pronouns: ...allanleandro-patch-1
 - ⚡ Fun fact: ...
 -->
