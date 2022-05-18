@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: ...pot que eu sou curioso 
 -->
 1 comentário no compromisso6334120
+Termos
+Privacidade
+Documentos
 @al   
 - 💬 Ask me about ...esse alura gostei de fazer esses jogos Atualmente estou aprendendo...eu estou atualizando um programar recentemente ce alura gostei de fazer esses jogos
 
